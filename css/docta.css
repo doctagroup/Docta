@@ -42,7 +42,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #fec503;
+    color: #575757;
     /*#4e69a2*/
 }
 
@@ -176,7 +176,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #868DBC;
 }
 
 .navbar-default .navbar-brand {
@@ -258,7 +258,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #868DBC;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -270,14 +270,13 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header3.1-bg.jpg);
+    background-image: url(../img/docheader1.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    filter: blur(8px);
 }
 
 
@@ -342,7 +341,7 @@ section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     font-style: italic;
     font-weight: 400;
 }
@@ -873,3 +872,21 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #3B5998;
 }
+
+
+
+
+.form-control {
+/*    height: 55px;*/
+}
+
+.btn {
+/*    height: 55px;*/
+}
+
+
+
+
+
+
+
