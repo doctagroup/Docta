@@ -13,7 +13,8 @@ body {
 }
 
 .text-muted {
-    color: #777;
+/*    color: #777;*/
+    color: #2D2D2D;
 }
 
 .text-primary {
@@ -305,8 +306,10 @@ header .intro-text .intro-heading {
     text-transform: uppercase;
 /*    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;*/
     font-family: Teko,'Helvetica Neue',Helvetica,Arial,sans-serif;
+    letter-spacing: .2em;
+    font-weight: 300;
     font-size: 50px;
-    font-weight: 700;
+/*    font-weight: 700;*/
     line-height: 50px;
 }
 
@@ -318,7 +321,8 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+/*        font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+        font-family: Teko,'Helvetica Neue',Helvetica,Arial,sans-serif;
         font-size: 40px;
 /*        font-style: italic;*/
         line-height: 40px;
@@ -330,7 +334,9 @@ header .intro-text .intro-heading {
 /*        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;*/
         font-family: Teko,'Helvetica Neue',Helvetica,Arial,sans-serif;
         font-size: 75px;
-        font-weight: 700;
+/*        font-weight: 700;*/
+        letter-spacing: .2em;
+    font-weight: 300;
         line-height: 75px;
     }
 }
@@ -342,7 +348,7 @@ section {
 section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
-    font-size: 40px;
+    font-size: 60px;
 }
 
 section h3.section-subheading {
@@ -350,7 +356,9 @@ section h3.section-subheading {
     text-transform: none;
 /*    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;*/
     font-family: Teko,'Helvetica Neue',Helvetica,Arial,sans-serif;
-    font-size: 20px;
+    letter-spacing: .2em;
+    font-weight: 300;
+    font-size: 18px;
 /*    font-style: italic;*/
     font-weight: 400;
 }
