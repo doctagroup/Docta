@@ -270,7 +270,8 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/docheader1.jpg);
+/*    background-image: url(../img/docheader1.jpg);*/
+    background-color: #a8a8a8;
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
