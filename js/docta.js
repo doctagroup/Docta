@@ -5,6 +5,7 @@ $(document).ready(function(){
   
 });
 
+
 /*
 $('intro-text').ready(function(){
     $('.intro-heading').hide(0).fadeIn(3000);
