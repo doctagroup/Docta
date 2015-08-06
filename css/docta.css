@@ -67,17 +67,19 @@ h6 {
 }
 
 .bg-header-color{
-    background: -webkit-linear-gradient(#a8a8a8 10%, #c4cde0);
+/*    background: -webkit-linear-gradient(#a8a8a8 10%, #c4cde0);*/
+    background-color: #a8a8a8;
 }
 
 .bg-light-gray {
-/*    background-color: #f7f7f7;*/
-    background: -webkit-linear-gradient(#f7f7f7, #c4cde0 10%);
+    background-color: #f7f7f7;
+/*    background-image: url(../img/tabdoc.png);*/
+/*    background: -webkit-linear-gradient(#f7f7f7, #c4cde0 10%);*/
 }
 
 .bg-light-blue {
-/*    background-color: #c4cde0;*/
-    background: -webkit-linear-gradient(#c4cde0, #f7f7f7 10%);
+    background-color: #c4cde0;
+/*    background: -webkit-linear-gradient(#c4cde0, #f7f7f7 10%);*/
 
 }
 
